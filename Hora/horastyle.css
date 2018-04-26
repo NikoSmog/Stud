@@ -14,7 +14,7 @@ body{
 	outline: 2px dashed rgba(255,255,255,0.8); /* Пунктирная рамка */
     outline-offset: -15px;
     background-color: #006400;
-    background: url(./img/1.1.jpg);
+    background: url(/img/1.1.jpg);
     background-size: 100% 300px;
     opacity: 0.6;
 }
